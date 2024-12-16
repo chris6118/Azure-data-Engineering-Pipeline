@@ -10,7 +10,7 @@ The aim of this project was to transform an unstructured sales dataset into a st
 The project employed Azure tools and Power BI to build a data pipeline for processing and visualizing data using ETL proccesses( Extract, Transform and Load), following these steps:
 
 ### Project Architecture
-![Screenshot 2024-12-16 025359](https://github.com/user-attachments/assets/865dc21d-1f55-444b-8f2c-d60affa8c18a)
+![Screenshot 2024-12-16 215447](https://github.com/user-attachments/assets/b58571d4-6606-46fa-9a58-69be3fe25b74)
 
 
 ### Data Integration:
