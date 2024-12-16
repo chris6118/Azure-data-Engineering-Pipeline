@@ -31,7 +31,7 @@ Integrated Power BI with Azure Synapse to create dashboards for visual analytics
 ![Screenshot 2024-12-10 083922](https://github.com/user-attachments/assets/5b7d51fb-e809-4d28-a1c4-f8a15428dc30)
 
 
-Steps Followed
+### Steps
 1. Data Loading
 Raw, unstructured sales data was imported into SQL Server Management Studio.
 Connected SQL Server Management Studio to Azure Data Factory using Self-Integration Runtime.
