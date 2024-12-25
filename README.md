@@ -13,7 +13,7 @@ The project employed Azure tools and Power BI to build a data pipeline for proce
 ![Screenshot 2024-12-16 221832](https://github.com/user-attachments/assets/64f92120-3a22-4245-86c3-6cee1e00f29c)
 
 
-##Pipeline
+## Pipeline
 ### Data Lake: 
 Harnessing the capabilities of a Data Lake to store and organize raw, semi-structured, and structured data sourced from Data Factory, facilitating efficient data access for advanced processing and refinement.
 ![Screenshot 2024-12-22 060317](https://github.com/user-attachments/assets/09dce901-f9d8-446f-8725-01f5db780b99)
