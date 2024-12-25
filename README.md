@@ -13,6 +13,15 @@ The project employed Azure tools and Power BI to build a data pipeline for proce
 ![Screenshot 2024-12-16 221832](https://github.com/user-attachments/assets/64f92120-3a22-4245-86c3-6cee1e00f29c)
 
 
+##Pipeline
+### Data Lake: 
+Harnessing the capabilities of a Data Lake to store and organize raw, semi-structured, and structured data sourced from Data Factory, facilitating efficient data access for advanced processing and refinement.
+![Screenshot 2024-12-22 060317](https://github.com/user-attachments/assets/09dce901-f9d8-446f-8725-01f5db780b99)
+
+### Azure synapse:
+Leveraging Azure Synapse to retrieve data from the gold layer for additional preprocessing of the refined dataset.
+![Screenshot 2024-12-23 201332](https://github.com/user-attachments/assets/ac8c469a-9342-41d6-8f2d-3669dba5449d)
+
 ### Data Integration:
 
  Connected SQL Server Management Studio (SSMS) with Azure Data Factory using Self-Integration Runtime to securely move data.
